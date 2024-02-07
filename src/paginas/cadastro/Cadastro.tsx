@@ -83,7 +83,7 @@ function Cadastro() {
                 {/*LEFT*/}
                 <div id="imagem" className="
             grid place-items-center w-full">
-                    < img src='https://ik.imagekit.io/Zabo/Blog-Pessoal/personagem-de-desenho-animado-de-ilustracao-vetorial-de-blogging_516790-1481.avif?updatedAt=1705578419077' alt='blog pessoal imagem'></img>
+                    < img src='https://ik.imagekit.io/gwq8l9cqx/Sem%20nome%20(600%20x%20600%20px).png?updatedAt=1707307178208' alt='blog pessoal imagem'></img>
                 </div>
 
                 {/*RIGHT*/}
